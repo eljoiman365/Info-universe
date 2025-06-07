@@ -14,4 +14,6 @@ Este codigo desarrollado con el formato REST-CONTROLLER proporciona datos intere
 
 ## Hecho por:
 
-🎮 Yorman Corba 🎮 - 💼 Linkedin: www.linkedin.com/in/yorman-corba-143b13220
+🎮 Yorman Corba 🎮 - 💼 Linkedin: www.linkedin.com/in/yorman-estiben-corba-castaño-143b13220
+
+
